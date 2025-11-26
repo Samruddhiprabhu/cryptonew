@@ -1,0 +1,9 @@
+flask
+flask-cors
+gunicorn
+cryptography
+pillow
+numpy
+soundfile
+moviepy
+opencv-python-headless
